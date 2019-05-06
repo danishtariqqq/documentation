@@ -1,6 +1,6 @@
 # Po.et Documentation
 
-Welcome to Po.et's documentation site, and thank you for your interest in Po.et.
+Welcome to Po.et's documentation site and thank you for your interest in Po.et.
 
 ## New to Po.et?
 
